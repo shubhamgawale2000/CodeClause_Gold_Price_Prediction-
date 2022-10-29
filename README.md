@@ -1,1 +1,2 @@
-# CodeClause_Gold_Price_Prediction-
+# Project Name :- Gold Price Prediction 
+## From CodeClause
